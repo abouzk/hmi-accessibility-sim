@@ -33,17 +33,13 @@ This phase adds an auditory component to the cognitive load simulation, which ca
 ## Getting Started
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-   ```
-
-2. **Set up a virtual environment (recommended):**
+2. **Set up a virtual environment (recommended {idk why it says recommeded here, must research this}):**
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
    ```
 
-3. **Install dependencies:**
+3. **Install dependencies {what}:**
    ```bash
    pip install -r requirements.txt
    ```
